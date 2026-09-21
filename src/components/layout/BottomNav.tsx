@@ -1,4 +1,4 @@
-import { Home, MapPin, User, FileText } from 'lucide-react';
+import { Home, MapPin, FileText } from 'lucide-react';
 import { NavLink } from 'react-router-dom';
 
 export function BottomNav() {
